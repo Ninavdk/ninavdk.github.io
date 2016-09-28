@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
 title: "From Pinterest to Coding"
-date: 2016-09-26
+date: 2016-09-27
 ---
 <p>Over the past few days I've been tapping into the wealth of resources available on the net to setup this personal site. Namely <a href="https://github.com/">Github</a>, <a href="https://freecodecamp.com">freeCodeCamp</a> and a very helpful blog post by
     <a href="http://jmcglone.com/">jmcglone</a> on how to <a href="http://jmcglone.com/guides/github-pages/">setup a website using GitHub pages</a>.</p>
