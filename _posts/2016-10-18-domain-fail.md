@@ -8,8 +8,6 @@ In my efforts to make this blog/site more profesh I went and bought a domain and
 
 It’s was all pretty easy to setup with Github pages just using their admin panel settings. However in the process of doing this all I made a MASSIVE FAIL.
 
-<insert pic of face slam>
-
 When buying my domain, I was feeling thrifty, so I opted _not_ to buy the add on “make my info private” option. Instead I just popped in my deets, clicked through and finished the the transaction. I knew it got added to a directory listing somewhere but I honestly (and naively) thought no one would really go and look at it and be interested in it. And I guess I was feeling a bit cheap. Mistake...
 
 First I got a flood of emails and calls from enterprising web design agencies across the globe calling me to offer their services for my domain. While a bit annoying, this was no real biggy to me. I can appreciate businesses trying to generate leads. I’d never thought of this as an avenue, but it’s a pretty smart channel to source from.
