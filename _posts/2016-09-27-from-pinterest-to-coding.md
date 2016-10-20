@@ -14,9 +14,8 @@ date: 2016-09-27
 
 <p><a href="https://ninavdk.github.io">So here it is</a>.</p>
 
-<ul>
-    <h4>Lessons Learnt:</h4>
-    <li>#3 The internet is amazing and so many people are using it to give away and share advice and help. Seek it you shall be rewarded with a wealth of helpful resources!</li>
-    <li>#4 You can setup your own repository collection, run wiki’s, use board based project management and run static webpages using Github, all for FREE</li>
-    <li>#5 Referencing google analytics JS as a (Jekyll I think?) include can work!</li>
-</ul>
+
+#### Lessons Learnt
+- The internet is amazing and so many people are using it to give away and share advice and help. Seek it you shall be rewarded with a wealth of helpful resources!
+- You can setup your own repository collection, run wiki’s, use board based project management and run static webpages using Github, all for FREE
+- Referencing google analytics JS as a (Jekyll I think?) include can work!
