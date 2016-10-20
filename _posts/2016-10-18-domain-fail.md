@@ -22,7 +22,7 @@ I’ve gone and removed all the private info I can against the registry, but it�
 
 So an actual serious life lesson learnt. You can never be overcautious online. Like, everywhere. Watch what you're doing people. Nothing is private!
 
-#### Lessons learnt:
+#### Lessons learnt
 - Don’t be relaxed about information you put online - anywhere, ever.
 - If you're using Jekyll you can use Markdown you don't need to code it all in HTML!
-- How to [preview markdown](https://github.com/atom/markdown-preview) easily in Atom 
+- How to [preview markdown](https://github.com/atom/markdown-preview) easily in Atom
