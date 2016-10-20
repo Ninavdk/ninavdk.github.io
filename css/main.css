@@ -32,11 +32,16 @@ h3 {
 h4 {
   font-size: 1.68em;
 }
+ul, li {
+  font-size: 1.54em;
+  list-style: none;
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
