@@ -4,10 +4,7 @@ title: "Back to Asia"
 date: 2016-02-10
 ---
 
-Ten years ago I took a gap year and lived in Ha Noi, Vietnam for 6 months, which started a lifelong love  
-
-
- last weekend I boarded a plane and took the next big step in this adventure we call life, to make a start trying to live a different lifestyle - Coworking in Indonesia.
+Last weekend I boarded a plane and took the next big step in this adventure we call life, to make a start trying to live a different lifestyle - Coworking in Indonesia.
 
 This is a plan my partner and I have been working towards for over a year. Although in actuality this is something I've wanted to do for what feels like forever.
 
