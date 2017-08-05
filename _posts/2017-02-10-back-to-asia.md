@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Back to Asia"
-date: 2016-02-10
+date: 2017-02-10
 ---
 
 Last weekend I boarded a plane and took the next big step in this adventure we call life, to make a start trying to live a different lifestyle - Coworking in Indonesia.
