@@ -1,4 +1,5 @@
 ---
 layout: bloghome
-title: Blog2
+title: Blog
+permalink: /blog/
 ---
