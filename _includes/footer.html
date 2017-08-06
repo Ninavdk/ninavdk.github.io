@@ -30,13 +30,23 @@
 
         <!--   <li><a href="https://www.linkedin.com/in/ninavdk/"><i>xxx</i></a></li> -->
 
-        {% if site.youtube_username %}
-        <li><a href="https://youtube.com/{{ site.youtube_username | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="/assets/icons.svg#youtube"></use></svg> <span class="username">{{ site.youtube_username | escape }}</span></a></li>
+        {% if site.linkedin_username %}
+        <li>
+          {% include icon-linkedin.html %}
+        </li>
         {% endif %}
 
         +  {% if site.googleplus_username %}<li><a href="https://plus.google.com/{{ site.googleplus_username | escape }}"><svg class="svg-icon"><use xlink:href="/assets/icons.svg#googleplus"></use></svg> <span class="username">{{ site.googleplus_username | escape }}</span></a></li>{% endif %}
 
-        
+        <ul>
+            <li><a href="https://www.facebook.com/" class="fa fa-facebook"></a></li>
+            <li><a href="https://www.instagram.com/" class="fa fa-instagram"></a></li>
+            <li><a href="https://www.linkedin.com/" class="fa fa-linkedin"></a></li>
+            <li><a href="https://twitter.com/" class="fa fa-twitter"></a></li>
+            <li><a href="https://www.snapchat.com/" class="fa fa-snapchat-ghost"></a></li>
+        </ul>
+
+
         </ul>
       </div>
 
