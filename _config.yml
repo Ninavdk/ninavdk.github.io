@@ -2,12 +2,16 @@ title: Nina van der Kley
 author: ninavdk
 email: ninavdk99@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Inspired learner, cuisine enthusiast.
+  Software development groupie, avid learner, food lover.
 
-twitter_username: jekyllrb
-github_username:  ninavdk
-linkedin_username: ninavdk
+# github_username:  ninavdk
+# linkedin_username: ninavdk
 
+social: 
+  - title: github
+    url: http://github.com/ninavdk
+  - title: linkedin
+    url: https://www.linkedin.com/in/ninavdk
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
@@ -24,6 +28,3 @@ theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
-
-# name: Ninavdk
-# permalink: /blog/:year/:month/:day/:title
