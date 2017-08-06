@@ -24,17 +24,15 @@
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
-            {% include icon-github.html %}
+            {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
 
-        <!--   <li><a href="https://www.linkedin.com/in/ninavdk/"><i>xxx</i></a></li> -->
-
-        {% if site.linkedin_username %}
-        <li>
-          {% include icon-linkedin.html %}
-        </li>
-        {% endif %}
+          {% if site.linkedin_username %}
+          <li>
+            {% include icon-linkedin.html username=site.linkedin_username % }
+          </li>
+          {% endif %}
 
         <!--
             <li><a href="https://www.instagram.com/" class="fa fa-instagram"></a></li>
