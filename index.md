@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About me
 ---
 
-Here is some content
+Placeholder
