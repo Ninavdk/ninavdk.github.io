@@ -13,6 +13,9 @@ minima:
 #header_pages:
 # - about.html
 
+plugins:
+  - jekyll-feed
+
 # Build settings
 markdown: kramdown
 theme: minima
