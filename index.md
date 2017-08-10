@@ -3,4 +3,9 @@ layout: default
 title: Nina van der Kley
 ---
 
-Placeholder text here
+## About me
+
+Things I like | Things I don't
+--- | ---
+Eating delicious food | Wasting time
+Learning | Exploitation 
