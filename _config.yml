@@ -11,7 +11,7 @@ minima:
 
 header_pages:
  - blog.md
- - contact.md
+ - contact.html
 
 plugins:
   - jekyll-feed
