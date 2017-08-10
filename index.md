@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: default
 title: Nina van der Kley
 ---
 
-Placeholder
+Placeholder text here
