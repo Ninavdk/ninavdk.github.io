@@ -10,7 +10,6 @@ minima:
   date_format: "%b %-d, %Y"
 
 header_pages:
- - index.md
  - blog.md
  - contact.md
 
