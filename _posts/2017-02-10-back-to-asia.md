@@ -12,8 +12,6 @@ Week one has been an up and down affair. Unfortunately I had to go alone as my p
 
 It's an interesting phenomenon - being back in Asia. ~10 years ago I spent 6 months living in Vietnam, and I've also quite extensively travelled throughout the region, particularly South East Asia. I am both comforted by how confident and familiar the place is, but also somehow disheartened.  
 
-In my efforts to make this blog/site more profesh I went and bought a domain and [associated it to this site](https://help.github.com/articles/setting-up-an-apex-domain/#configuring-an-alias-or-aname-record-with-your-dns-provider "configuring-an-alias-or-aname-record-with-your-dns-provider").  It’s working now - [ninavdk.com]() is live, Yay!
-
 #### Lessons learnt
 - Don’t be relaxed about information you put online - anywhere, ever.
 - If you're using Jekyll you can use Markdown you don't need to code it all in HTML!
