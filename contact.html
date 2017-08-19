@@ -4,11 +4,16 @@ title: Contact
 permalink: /contact/
 ---
 
-<form action="https://formspree.io/ninavdk99@gmail.com"
-      method="POST">
-    <input type="text" name="name" placeholder="Name"><br>
-    <input type="email" name="_replyto" placeholder="Email"><br>
-    <textarea name="message" placeholder="Your message"></textarea><br>
-    <input name="gmail" type="hidden" value="ninavdk99@gmail.com">
-    <button class="button" type="submit" value="Send">Send</button><br>
+<form action="https://formspree.io/ninavdk99@gmail.com" method="POST">
+  <div class="form-group">
+    <input type="text" class="form-control" name="name" placeholder="Name">
+  </div>
+  <div class="form-group">
+    <input type="email" class="form-control" name="_replyto" placeholder="Email">
+  </div>
+  <div class="form-group">
+    <textarea class="form-control" rows="3" name="message" placeholder="Your message"></textarea>
+  </div>
+  <input name="gmail" type="hidden" value="ninavdk99@gmail.com">
+  <button type="submit" class="btn btn-default" value="Send">Submit</button>
 </form>
