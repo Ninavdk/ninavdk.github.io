@@ -1,7 +1,7 @@
 title: Nina van der Kley
 author: ninavdk
 email: ninavdk99@gmail.com
-description: Voracious Learner - Quality Warrior
+description: There's always money in the banana stand
 
 github_username: ninavdk
 linkedin_username: ninavdk
@@ -10,7 +10,6 @@ minima:
   date_format: "%b %-d, %Y"
 
 header_pages:
- - blog.md
  - contact.html
 
 plugins:
